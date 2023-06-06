@@ -1,5 +1,5 @@
 | # | Server | Location | Protocol |Websocket+TLS| Type | Remark | Bandwidth/Quota|
-|---|----------|----------|----------|-----|-----|----------|-----|
+|---|----------|----------|----------|-----|----------|----------|-----|
 |1.1|[WannaShabuShabu](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2xlZXB5X1MwcnJyeQ@jp.chiioi.eu.org:443/?plugin=v2ray-plugin%3btls%3bhost%3djp.chiioi.eu.org%3bpath%3d%2fv2ray)| Tokyo, JP | ss | ✓| direct|Microsoft Azure|50Mbps/15GB|
 |2.1|[SecretGardenRP](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2xlZWd5X1MwcnJyeQ@sg.chiioi.me:443/?plugin=v2ray-plugin%3btls%3bhost%3dsg.chiioi.me%3bpath%3d%2fgarden)| Singapore, SG | ss|✓|Cloudflare CDN/Planning to Rebuild CDN in Shanghai|DigitalOcean/Recommended(Special Days)|INF/1.5TB|
 |2.2|[SecretGarden](vmess://eyJhZGQiOiJzZ3JwLmNoaWlvaS5ldS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzgzMTMyMWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjEyMzQ1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NncnAiLCJwb3J0IjoiNDQzIiwicHMiOiJTZWNyZXRHYXJkZW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=)| Singapore, SG |  vmess| ✓| direct|Recommended |INF/1.5TB|
