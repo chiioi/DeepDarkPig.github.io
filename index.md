@@ -10,9 +10,9 @@
 
 Clash格式的配置文件（二選一即可）：
 
-主文件:  https://config.chiioi.me/magicbox.yaml (Github/Cloudflare CDN)
+主文件:  [https://config.chiioi.me/magicbox.yaml](https://config.chiioi.me/magicbox.yaml) (Github/Cloudflare CDN)
 
-鏡像(鏡粉唔好打禾qq): https://conf2.chiioi.me (JPEast/Cloudflare CDN)
+鏡像(鏡粉唔好打禾qq): [https://conf2.chiioi.me](https://conf2.chiioi.me) (JPEast/Cloudflare CDN)
 
 廢置: <strike>https://jp.chiioi.eu.org/magicbox.yaml</strike>  (JPEast/direct)
 
