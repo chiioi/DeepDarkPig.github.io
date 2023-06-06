@@ -290,6 +290,7 @@ proxy-groups:
     - "S._.SSGRP"
     - "S._.SSleepyLoMei"
     - "S._.SSleepyLoMeiRP"
+    - "S._.SMickeyMouse"
     - "請優先使用SecretGarden嗚"
 
 # 白名单模式 PROXY，黑名单模式 DIRECT
