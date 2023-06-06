@@ -1,11 +1,11 @@
 | # | Server | Location | protocol |ws+tls| type | Remark | Bandwidth/Quota|
 |---|----------|-------------|--------|-----|-----|---------|---|
 |1.1|[WannaShabuShabu](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2xlZXB5X1MwcnJyeQ@jp.chiioi.eu.org:443/?plugin=v2ray-plugin%3btls%3bhost%3djp.chiioi.eu.org%3bpath%3d%2fv2ray)| Tokyo, JP | ss | ✓| direct|Microsoft Azure|50Mbps/15GB|
-|2.1|SecretGardenGRP| Singapore, SG | ss|✓|CDN/Cloudflare/Planning to Rebuild CDN in Shanghai|DigitalOcean/Recommended(Special Days)|INF/1.5TB|
-|2.2|[SecretGarden](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2xlZWd5X1MwcnJyeQ@sg.chiioi.me:443/?plugin=v2ray-plugin%3btls%3bhost%3dsg.chiioi.me%3bpath%3d%2fgarden)| Singapore, SG |  vmess| ✓| direct|Recommended |INF/1.5TB|
+|2.1|[SecretGardenGRP](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2xlZWd5X1MwcnJyeQ@sg.chiioi.me:443/?plugin=v2ray-plugin%3btls%3bhost%3dsg.chiioi.me%3bpath%3d%2fgarden)| Singapore, SG | ss|✓|CDN/Cloudflare/Planning to Rebuild CDN in Shanghai|DigitalOcean/Recommended(Special Days)|INF/1.5TB|
+|2.2|[SecretGarden](vmess://eyJhZGQiOiJzZ3JwLmNoaWlvaS5ldS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzgzMTMyMWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjEyMzQ1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NncnAiLCJwb3J0IjoiNDQzIiwicHMiOiJTZWNyZXRHYXJkZW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=)| Singapore, SG |  vmess| ✓| direct|Recommended |INF/1.5TB|
 |3.1|[SleepyLoMei](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2ZlZXB5X1MwcnJyeQ@us.chiioi.eu.org:443/?plugin=v2ray-plugin%3btls%3bhost%3dus.chiioi.eu.org%3bpath%3d%2flm)| San Francisco, US  | ss| ✓  |direct| DigitalOcean/Share Quota with SecretGarden|INF/1.5TB|
-|3.2|SleepyLoMeiRP| San Francisco, US  | vmess |✓| CDN/Cloudflare||INF/1.5TB|
-|4.3|MickeyMouse| Sydney, AU  | trojan  ||  direct|Backup/DigitalOcean/Share Quota with SecretGarden/***使用trojan協議請注意自身數據安全***|INF/1.5TB|
+|3.2|[SleepyLoMeiRP](vmess://eyJhZGQiOiJ1c3JwLmNoaWlvaS5tZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjODMxMzIxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiNjEwMTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbG1ycCIsInBvcnQiOiI0NDMiLCJwcyI6IkxvTWVpUlAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=)| San Francisco, US  | vmess |✓| CDN/Cloudflare||INF/1.5TB|
+|4.3|[MickeyMouse](trojan://Sleepy_S0rrry@mk.chiioi.me:443#mk.chiioi.me%3A443)| Sydney, AU  | trojan  ||  direct|Backup/DigitalOcean/Share Quota with SecretGarden/***使用trojan協議請注意自身數據安全***|INF/1.5TB|
 |0.0|DryMincedBeef| Macau, CN  | ||Cloudflare|Mtel/Only For Test/ss/v2/trojan||
 
 Clash格式的配置文件（二選一即可）：
