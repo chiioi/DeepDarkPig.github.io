@@ -17,6 +17,7 @@ Clash格式的配置文件（二選一即可）：
 廢置: <strike>https://jp.chiioi.eu.org/magicbox.yaml</strike>  (JPEast/direct)
 
 ---
+
 Windows:
 你可以選擇以下任一客戶端進行連接
 - 使用Shadowsocks配合v2ray-plugin連接上表中的Server x.1
@@ -24,20 +25,27 @@ Windows:
 	*Qv2ray配合各QvPlugin可以連接上表的任一Server*
 - 使用Trojan-Qt5連接上表中的Server x.3
 - 使用Clash連接上表的任一Server（這個很麻煩我也不會用）
+
 ---
+
 Mac OS:
 你可以選擇以下任一客戶端進行連接
 - 使用V2Ray core配合Qv2ray介面連接上表中的Server x.2
 	*Qv2ray配合各QvPlugin可以連接上表的任一Server*
 - 使用ClashX連接上表的任一Server
+
 ---
+
 Android:
 你可以選擇以下任一客戶端進行連接
 - 使用Shadowsocks配合v2ray-plugin連接上表中的Server x.1
 - 使用V2rayNG連接上表中的Server x.2/x.3
 - 使用Clash for Android連接上表的任一Server（強推Android端貓貓client）
+
 ---
+
 iOS:
 你可以選擇以下任一客戶端進行連接
 - 使用Shadowrocket連接上表的任一Server
+
 ---
