@@ -171,8 +171,8 @@ proxies:
   ws-opts:
     path: /sgrp
 
-- type: trojan
-  name: "S._.SMickeyMouse"
+- name: "S._.SMickeyMouse"
+  type: trojan
   server: mk.chiioi.me
   port: 443
   password: Sleepy_S0rrry
