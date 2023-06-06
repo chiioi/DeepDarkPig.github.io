@@ -109,6 +109,22 @@ proxies:
     tls: true
     host: mo.chiioi.me
     path: /secret
+    
+- name: "S._.SSecretGarden"
+  type: vmess
+  server: sgrp.chiioi.eu.org
+  port: 443
+  uuid: c831321d-6324-4d53-ad4f-8cda48b12345
+  cipher: auto
+  # udp: true
+  tls: true
+  # skip-cert-verify: true
+  # tls-hostname: usrp.chiioi.me
+  # udp: true
+  alterId: 0
+  network: ws
+  ws-opts:
+    path: /sgrp
 
 - name: "S._.SSecretGardenRP"
   type: ss
@@ -155,21 +171,7 @@ proxies:
   ws-opts:
     path: /lmrp
   
-- name: "S._.SSecretGarden"
-  type: vmess
-  server: sgrp.chiioi.eu.org
-  port: 443
-  uuid: c831321d-6324-4d53-ad4f-8cda48b12345
-  cipher: auto
-  # udp: true
-  tls: true
-  # skip-cert-verify: true
-  # tls-hostname: usrp.chiioi.me
-  # udp: true
-  alterId: 0
-  network: ws
-  ws-opts:
-    path: /sgrp
+
 
 - name: "S._.SMickeyMouse"
   type: trojan
