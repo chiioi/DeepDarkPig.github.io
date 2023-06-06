@@ -306,8 +306,8 @@ proxy-groups:
   proxies:
     - "S._.SWannaShabuShabu"
     - "S._.SMacauChinaHahaha"
-    - "S._.SSecretGardenRP"
     - "S._.SSecretGarden"
+    - "S._.SSecretGardenRP"
     - "S._.SSleepyLoMei"
     - "S._.SSleepyLoMeiRP"
     - "S._.SMickeyMouse"
