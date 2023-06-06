@@ -110,7 +110,7 @@ proxies:
     host: mo.chiioi.me
     path: /secret
 
-- name: "S._.SSGRP"
+- name: "S._.SSecretGardenRP"
   type: ss
   server: sg.chiioi.me
   port: 443
@@ -286,7 +286,7 @@ proxy-groups:
   proxies:
     - "S._.SWannaShabuShabu"
     - "S._.SMacauChinaHahaha"
-    - "S._.SSGRP"
+    - "S._.SSecretGardenRP"
     - "S._.SSecretGarden"
     - "S._.SSleepyLoMei"
     - "S._.SSleepyLoMeiRP"
