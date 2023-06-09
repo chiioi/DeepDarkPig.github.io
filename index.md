@@ -1,6 +1,7 @@
 | # | Server | Location | Protocol |Websocket+TLS| Type | Remark | Bandwidth/Quota|
 |---|----------|----------|----------|-----|----------|----------|-----|
-|1.1|[WannaShabuShabu](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2xlZXB5X1MwcnJyeQ@jp.chiioi.eu.org:443/?plugin=v2ray-plugin%3btls%3bhost%3djp.chiioi.eu.org%3bpath%3d%2fv2ray)| Tokyo, JP | ss | ✓| direct|Microsoft Azure|50Mbps/15GB|
+|1.1|[WannaShabuShabuRP](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2xlZXB5X1MwcnJyeQ@jp.chiioi.eu.org:443/?plugin=v2ray-plugin%3btls%3bhost%3djp.chiioi.eu.org%3bpath%3d%2fv2ray)| Tokyo, JP | ss | ✓| Cloudflare CDN|Microsoft Azure|50Mbps/15GB|
+|1.2.1|WannaShabuShabu| Tokyo, JP | vless| | direct|Microsoft Azure|50Mbps/15GB|
 |2.1|[SecretGardenRP](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2xlZWd5X1MwcnJyeQ@sg.chiioi.me:443/?plugin=v2ray-plugin%3btls%3bhost%3dsg.chiioi.me%3bpath%3d%2fgarden)| Singapore, SG | ss|✓|Cloudflare CDN/Planning to Rebuild CDN in Shanghai|DigitalOcean/Recommended(Special Days)|INF/1.5TB|
 |2.2|[SecretGarden](vmess://eyJhZGQiOiJzZ3JwLmNoaWlvaS5ldS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzgzMTMyMWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjEyMzQ1IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NncnAiLCJwb3J0IjoiNDQzIiwicHMiOiJTZWNyZXRHYXJkZW4iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=)| Singapore, SG |  vmess| ✓| direct|Recommended |INF/1.5TB|
 |3.1|[SleepyLoMei](ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6U2ZlZXB5X1MwcnJyeQ@us.chiioi.eu.org:443/?plugin=v2ray-plugin%3btls%3bhost%3dus.chiioi.eu.org%3bpath%3d%2flm)| San Francisco, US  | ss| ✓  |direct| DigitalOcean/Share Quota with SecretGarden|INF/1.5TB|
@@ -12,7 +13,7 @@ Clash格式的配置文件（二選一即可）：
 
 主文件:  [https://config.chiioi.me/magicbox.yaml](https://config.chiioi.me/magicbox.yaml) (Github/Cloudflare CDN)
 
-鏡像(鏡粉唔好打禾qq): [https://conf2.chiioi.me](https://conf2.chiioi.me) (JPEast/Cloudflare CDN)
+鏡像(鏡粉唔好打禾qq): <strike>[https://conf2.chiioi.me](https://conf2.chiioi.me)</strike> (JPEast/Cloudflare CDN)
 
 廢置: <strike>https://jp.chiioi.eu.org/magicbox.yaml</strike>  (JPEast/direct)
 
