@@ -82,6 +82,19 @@ proxies:
 #   aes-128-ctr aes-192-ctr aes-256-ctr
 #   rc4-md5 chacha20-ietf xchacha20
 #   chacha20-ietf-poly1305 xchacha20-ietf-poly1305
+
+# - name: "S._.SWannaShabuShabu"
+#   type: VLESS
+#   server: jpvl.chiioi.eu.org
+#   port: 1443
+#   flow: xtls-rprx-vision
+#   uuid: 140b968a-155b-4aec-95d6-a487147a4fd9
+#   encryption: none
+#   network: tcp
+#   tls: tls
+#   Alpn: http/1.1
+#   allowInsecure: false
+
 - name: "S._.SWannaShabuShabuRP"
   type: ss
   server: jp.chiioi.eu.org
