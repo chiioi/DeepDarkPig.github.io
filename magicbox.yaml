@@ -113,7 +113,7 @@ proxies:
   type: ss
   server: mo.chiioi.me
   port: 443
-  cipher: aes-256-gcm
+  cipher: xchacha20-ietf-poly1305
   password: "Sleepy_M0rrry"
   # udp: true
   plugin: v2ray-plugin
@@ -121,7 +121,7 @@ proxies:
     mode: websocket
     tls: true
     host: mo.chiioi.me
-    path: /secret
+    path: /DMB
     
 - name: "S._.SSecretGarden"
   type: vmess
